@@ -10,7 +10,7 @@
 
 Create a basic slideshow application, as shown below. Application requirements are given below, and the finished application must pass all of the unit tests.
 
-![Gif](https://hrcdn.net/s3_pub/istreet-assets/j3Q6jXZ3DOOPRlCs9hFcnQ/slideshow.gif)
+![Gif](./preview.gif)
 
 Your task is to complete the implementation of `src/components/Slides.js` according to the following requirements:
 
