@@ -3,21 +3,23 @@
 
 ### Table of Content
 
-```
-.
-|-- ./javascript
-|   |-- ./javascript/FizzBuzz
-|   |-- ./javascript/ParkingLot
-|   |-- ./javascript/ActivityList
-|   `-- ./javascript/ImageCloning
-|-- ./React
-|   |-- ./React/react-slideshow-app
-|   |-- ./React/react-sorting-articles
-|   |-- ./React/README.md
-|   `-- ./React/react-timer-component
-|-- ./README.md
-`-- ./tree.sh
-```
+- [javascript](./javascript)
+
+  - [FizzBuzz](./javascript/FizzBuzz)
+
+  - [ParkingLot](./javascript/ParkingLot)
+
+  - [ActivityList](./javascript/ActivityList)
+
+  - [ImageCloning](./javascript/ImageCloning)
+
+- [React](./React)
+
+    - [react-slideshow-app](./React/react-slideshow-app)
+
+    - [react-sorting-articles](./React/react-sorting-articles)
+
+    - [react-timer-component](./React/react-timer-component)
 
 ---
 
@@ -30,7 +32,7 @@ The **Table of Content** was generated using `Tree`.
 Run this script to generate a `TreeView` of the Table of Content :
 
 ```
-sh ./tree.sh
+sh ./table-of-content.sh
 ```
 
 By default, Windows and Linux already have the `Tree` command.
