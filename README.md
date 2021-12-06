@@ -15,11 +15,25 @@
 
 - [React](./React)
 
-    - [react-slideshow-app](./React/react-slideshow-app)
+  - [react-slideshow-app](./React/react-slideshow-app)
 
-    - [react-sorting-articles](./React/react-sorting-articles)
+  - [react-sorting-articles](./React/react-sorting-articles)
 
-    - [react-timer-component](./React/react-timer-component)
+  - [react-timer-component](./React/react-timer-component)
+
+- [10days-of-javascript](./10days-of-javascript)
+
+    - [LetAndConst](./10days-of-javascript/LetAndConst)
+
+    - [ArithmeticOperators](./10days-of-javascript/ArithmeticOperators)
+
+    - [Functions](./10days-of-javascript/Functions)
+
+    - [ConditionalStatements](./10days-of-javascript/ConditionalStatements)
+
+    - [ConditionalStatements2](./10days-of-javascript/ConditionalStatements2)
+
+    - [Array](./10days-of-javascript/Array)
 
 ---
 
